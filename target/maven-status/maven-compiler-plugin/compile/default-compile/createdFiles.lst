@@ -1,0 +1,10 @@
+com\aac\controllers\PeopleController.class
+com\aac\config\SpringConfig.class
+com\aac\entity\People.class
+com\aac\config\WebSecurityConfig.class
+com\aac\model\Role.class
+com\aac\controllers\MainController.class
+com\aac\controllers\RegistrationController.class
+com\aac\Main.class
+com\aac\repository\PeopleRepository.class
+com\aac\config\MySpringMvcDispatcherSerlvetIntitializer.class
